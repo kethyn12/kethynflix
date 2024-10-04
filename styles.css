@@ -1,4 +1,4 @@
-}
+
 body{
      color:white;      /*cor-da-fonte: branco*/
      background:black;        /*cor-fundo: preto*/
@@ -9,10 +9,7 @@ body{
 header{
   border-bottom: solid 2px rgb(42, 122, 228);
                    /*borda-de-baixo: linha-solida 2pixels cor-padrao-rgb*/
-  padding: 20px    /*espaço-interno do elemento  : 20pixels*/
+  padding: 20px;    /*espaço-interno do elemento  : 20pixels*/
   font-size: 32px;   /*tamanho da fonte  : 32pixels*/
   color: rgb(42,122, 228);/*cor-da-font-texto: cor-padrao-rgb*/
-}
-.chamada{...
-
 }
