@@ -1,7 +1,18 @@
-
+}
 body{
-     color:white;
-     background:black
-    margin:0px 
-    font-family:"chakra petch;"
+     color:white;      /*cor-da-fonte: branco*/
+     background:black;        /*cor-fundo: preto*/
+     margin: 0px;                /*margem-externa-elemento:0pixels*/
+    font-family:'Chakra Petch';       /*tipo-de-fontes*/
+    margin-bottom: 100px;   /*margin-externa-de-baixo*/
+}
+header{
+  border-bottom: solid 2px rgb(42, 122, 228);
+                   /*borda-de-baixo: linha-solida 2pixels cor-padrao-rgb*/
+  padding: 20px    /*espaço-interno do elemento  : 20pixels*/
+  font-size: 32px;   /*tamanho da fonte  : 32pixels*/
+  color: rgb(42,122, 228);/*cor-da-font-texto: cor-padrao-rgb*/
+}
+.chamada{...
+
 }
